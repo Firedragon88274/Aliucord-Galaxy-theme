@@ -2,8 +2,8 @@
     "manifest": {
         "name": "Neutron Nova",
         "version": "1.0",
-        "author": "ukivie",
-        "updater": "https:\/\/raw.githubusercontent.com\/ukivie\/blossom-aliucord-theme\/main\/blossomed.json"
+        "author": "Eric",
+        "updater": "https:\/\/raw.githubusercontent.com\/Firedragon88274\/Aliucord-Galaxy-theme\/main\/Nova.json"
     },
     "background": {
         "overlay_alpha": 0,
