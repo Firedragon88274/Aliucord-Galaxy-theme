@@ -2,4 +2,3 @@
 
 ## LARGE CREDIT TO:
   ## --**Cruxie** + **w1zard** for Neutron Nova theme background image → https://github.com/xcruxiex/themes
-  ## --**l6t9** for the "Blossomed" Theme I used as a baseplate → https://github.com/l6t9/Blossom

@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "version": "1.0.0",
+    "updater": "https://raw.githubusercontent.com/Firedragon88274/Aliucord-Galaxy-theme/main/Nova.json",
+    "transparency_mode": 3,
+    "author": "Eric",
+    "name": "AliuGalaxy☻"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/Firedragon88274/Aliucord-Galaxy-theme/main/bg.png",
+    "blur_radius": 1
+  },
+  "fonts": {
+    "ginto_bold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Bold.ttf",
+    "ginto_medium": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+    "ginto_regular": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+    "whitney_bold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Bold.ttf",
+    "whitney_medium": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf",
+    "whitney_semibold": "https://github.com/Firedragon88274/Aliucord-Galaxy-theme/raw/main/GlacialIndifference-Regular.ttf"
+  },
+  "simple_colors": {
+    "background": 0,
+    "background_secondary": 0,
+    "statusbar": 0,
+    "mention_highlight": 1228541514,
+    "active_channel": 851599078,
+    "accent": -3571729
+  },
+  "colors": {
+    "uikit_btn_bg_color_selector_red": -13997085,
+    "white_500": -1787660,
+    "primary_dark_360": -9411089,
+    "primary_dark_200": -4547868,
+    "primary_dark_300": -3321109
+  },
+  "drawable_tints": {
+    "drawable_bg_reaction_dark": 1853374695
+  },
+  "raws": {}
+}
